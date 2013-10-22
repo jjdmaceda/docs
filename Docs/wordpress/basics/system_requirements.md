@@ -9,7 +9,7 @@ Gantry Framework has some system requirements you should be aware of prior to in
 
 WordPress Requirements
 -------------------
-It is strongly recommended that you always use the latest stable version of WordPress to ensure all known bugs and security issues are addressed. At the time this guide was written, the current stable version of WordPress is: **3.5.1**. We encourage you to update your WordPress install if you are running an older version than this.
+It is strongly recommended that you always use the latest stable version of WordPress to ensure all known bugs and security issues are addressed. At the time this guide was written, the current stable version of WordPress is: **3.6.1**. We encourage you to update your WordPress install if you are running an older version than this.
 
 
 Server Requirements
